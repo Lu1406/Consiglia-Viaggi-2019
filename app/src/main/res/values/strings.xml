@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Consiglia Viaggi 2019 (nuovo)</string>
+    <string name="effettua_accesso">Effettua l\'accesso</string>
+    <string name="registrati">Registrati</string>
+    <string name="accedi_come_ospite">Accedi come ospite</string>
+    <string name="email">Email</string>
+    <string-array name="Punteggio"></string-array>
+    <string name="title_activity_pagina_posizione_attuale">Map</string>
+    <string-array name="PunteggioNuovaRecensione"></string-array>
+</resources>
