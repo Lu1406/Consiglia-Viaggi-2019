@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "920471964385",
+    "firebase_url": "https://cv19-fcd0a.firebaseio.com",
+    "project_id": "cv19-fcd0a",
+    "storage_bucket": "cv19-fcd0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920471964385:android:60a8b75166dab2a303c5a0",
+        "android_client_info": {
+          "package_name": "com.example.consigliaviaggi2019nuovo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920471964385-9h1o0s0pthngdamf9mrl7l18ol5at45p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.consigliaviaggi2019nuovo",
+            "certificate_hash": "2dffa1cd7e4a3f6d9c566f301efb621cb5b30098"
+          }
+        },
+        {
+          "client_id": "920471964385-uk41f5oflfon7r7n1bi8qdtepru4g5nc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_JTUWDohYMWNJmI3L-TR3Dq0hIeFs9Z4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920471964385-uk41f5oflfon7r7n1bi8qdtepru4g5nc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
